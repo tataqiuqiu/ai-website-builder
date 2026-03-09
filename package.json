@@ -1,0 +1,19 @@
+{
+  "name": "ai-website-builder",
+  "version": "1.0.0",
+  "description": "一、 layout.json    ↓ 生成 HTML 生成 CSS 生成 CMS 模板",
+  "main": "builder.js",
+  "scripts": {
+    "build": "node builder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "openai": "^6.25.0",
+    "yoga-layout": "^3.2.1"
+  }
+}

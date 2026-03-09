@@ -1,0 +1,23 @@
+{
+  "sections": [
+    {
+      "type": "banner",
+      "title": "AI 官网生成器",
+      "subtitle": "设计稿自动生成官网",
+      "button": "立即体验"
+    },
+    {
+      "type": "features",
+      "items": [
+        { "title": "自动切图" },
+        { "title": "自动适配" },
+        { "title": "CMS模板生成" }
+      ]
+    },
+    {
+      "type": "cms-list",
+      "diyform": "53",
+      "fields": ["speed", "delay"]
+    }
+  ]
+}
