@@ -1,3 +1,6 @@
+ai-website-builder 是AI自动化页面生成器，它从figma获取单页的设计稿，通过Yoga分析html tree结构，并写对应的CSS。
+
+
 ### 一、
 layout.json
    ↓
@@ -81,3 +84,5 @@ Yoga Layout Engine
 Computed Layout
    ↓
 HTML + CSS
+
+
